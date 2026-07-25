@@ -1,6 +1,12 @@
 {
   "proprietary_licenses": [
     {
+  "identifier": "CRTM LDA",
+  "name": "Licencia de datos estáticos del Consorcio Regional de Transportes de Madrid",
+  "attribution_text": "Consorcio Regional de Transportes de Madrid (CRTM)",
+  "url": "https://www.crtm.es/licencia-de-uso"
+    },
+    {
       "identifier": "MTA Open Data Law (A1442-B/S4625-A)",
       "name": null,
       "attribution_text": null,
@@ -1345,6 +1351,12 @@
       "spdx": "GPL-3.0-only",
       "url": "https://gy-mate.hu/gtfs/gtfs_hu_urom.zip",
       "custom_license": null
+    },
+    {
+      "file": "es_Consorcio-Regional-de-Transportes-de-Madrid-CRTM-I.gtfs.zip",
+      "spdx": null,
+      "url": "https://data-crtm.opendata.arcgis.com/",
+      "custom_license": "CRTM LDA"
     }
   ]
 }
